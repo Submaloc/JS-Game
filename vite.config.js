@@ -1,3 +1,3 @@
 export default {
-    base: '/<JS-Game>/',
+    base: '/JS-Game>',
 }
